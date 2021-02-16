@@ -1,0 +1,8 @@
+print("Starting Hack....")
+print("Hacking FBI 0%")
+print("Hacking FBI 20%")
+print("Hacking FBI 40%")
+print("Hacking FBI 60%")
+print("Hacking FBI 80%")
+print("Hacking FBI 100%")
+print("FBI Hacked seccessfully")
