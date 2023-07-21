@@ -4,3 +4,8 @@ class Pessoa:
                                        
      def saudacao(self):
         print('Olá Pessoas!')
+        print(Pessoa.idade)
+        print(Pessoa.saudacao)
+        print(Pessoa.__doc__)
+        print(matheus.saudacao)
+        Matheus.saudacao()
